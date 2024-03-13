@@ -1,22 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Martin Xia</title>
     <link>/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Martin Xia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Mar 2024 18:03:26 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 13:55:40 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My_first_article</title>
-      <link>/posts/my_first_article/</link>
-      <pubDate>Tue, 12 Mar 2024 18:03:26 +0800</pubDate>
+      <title>Why I chose Martin as my English name</title>
+      <link>/posts/the_story_of_martin/</link>
+      <pubDate>Wed, 13 Mar 2024 13:55:40 +0800</pubDate>
       
-      <guid>/posts/my_first_article/</guid>
+      <guid>/posts/the_story_of_martin/</guid>
       <description>
         
           
-            This is my first article! 
+            Many Chinese people now have an English name. My English name is Martin. Many people may be curious about the story behind my English name.
+In fact, I chose Martin as my English name because I admire Martin Luther King a lot. In the first year of high school, I learned &amp;ldquo;I Have a Dream&amp;rdquo; in my English course. This speech was so inspiring that I began to learn more about this hero in the civil rights movement.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Hello world!</title>
+      <link>/posts/hello_world/</link>
+      <pubDate>Wed, 13 Mar 2024 12:50:47 +0800</pubDate>
+      
+      <guid>/posts/hello_world/</guid>
+      <description>
+        
+          
+            This is my personal website for blogs where I will share my thoughts for academic research, books, movies, sports or other interesting things.
+Please feel free to contact me at MartinX0712@gamil.com.
+PKU treehole 
           
           
         
